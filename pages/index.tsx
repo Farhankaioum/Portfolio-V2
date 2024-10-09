@@ -10,21 +10,21 @@ export default function Home() {
     <>
       <div>
         <Head>
-          <title>Ismael&apos;s Portfolio</title>
+          <title>Keiuom&apos;s Portfolio</title>
           <meta
             property="og:description"
-            content="Ismael Miah is a software engineer who builds accessible,
+            content="Md Keiuom is a software engineer who builds accessible,
   inclusive products and digital experiences for the web."
           />
           <meta property="og:image" content="/images/Thumbnail.jpeg" />
           <meta property="og:image:type" content="image/jpeg" />
           <meta property="og:image:alt" content="Summary Image" />
-          <meta property="og:title" content="Ismael Miah" />
+          <meta property="og:title" content="Md Keiuom" />
           <meta property="og:type" content="website" />
           <meta property="og:locale" content="en_IE" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta property="og:site_name" content="Ismael's Portfolio" />
-          <meta name="twitter:image:alt" content="Backend Engineer" />
+          <meta property="og:site_name" content="Keiuom's Portfolio" />
+          <meta name="twitter:image:alt" content="Full Stack Engineer" />
           <link rel="shortcut icon" href="/favicon/apple-touch-icon.png" />
           <link
             rel="favicon-16x16"
