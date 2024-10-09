@@ -18,13 +18,13 @@ const Header = () => {
               smooth={true}
               duration={500}
             >
-              Ismael Miah
+              Md Keiuom Miah
             </Link>
           </h1>
           <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
             Software Engineer
           </h2>
-          <i>London, United Kingdom</i>
+          <i>Melbourne, Australia</i>
           <p className="mt-2 lg:max-w-sm leading-relaxed text-justify">
             I build accessible, inclusive products and digital experiences for
             the web. I enjoy taking on new challenges and collaborating with
@@ -35,7 +35,7 @@ const Header = () => {
           <div className="mt-3 max-w-xs flex">
             <a
               className="flex items-center rounded uppercase bg-teal-400/10 px-4 py-2 text-xs text-teal-300 hover:text-teal-100 mr-2 font-medium"
-              href="https://devismael.blogspot.com/"
+              href="https://devkeiuom.blogspot.com/"
               target="_blank"
             >
               <svg
@@ -57,7 +57,7 @@ const Header = () => {
             <a
               className="flex items-center rounded uppercase bg-teal-300 px-4 py-2 text-xs text-teal-900 hover:text-teal-100 hover:bg-teal-400/10 font-medium"
               aria-label="View Full Resume"
-              href="/resume/Resume_Of_Ismael_Miah.pdf"
+              href="/resume/Resume_Of_Keiuom_Miah.pdf"
               target="_blank"
             >
               <svg
@@ -173,25 +173,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-white"
-              href="https://www.facebook.com/ismail96.12/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <span className="sr-only">Facebook</span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="currentColor"
-                className="h-7 w-7 text-slate-200"
-                viewBox="0 0 24 24"
-              >
-                <path d="M12 2.03998C6.5 2.03998 2 6.52998 2 12.06C2 17.06 5.66 21.21 10.44 21.96V14.96H7.9V12.06H10.44V9.84998C10.44 7.33998 11.93 5.95998 14.22 5.95998C15.31 5.95998 16.45 6.14998 16.45 6.14998V8.61998H15.19C13.95 8.61998 13.56 9.38998 13.56 10.18V12.06H16.34L15.89 14.96H13.56V21.96C15.9164 21.5878 18.0622 20.3855 19.6099 18.57C21.1576 16.7546 22.0054 14.4456 22 12.06C22 6.52998 17.5 2.03998 12 2.03998Z" />
-              </svg>
-            </a>
-          </li>
-          <li className="mr-5 text-xs">
-            <a
-              className="block hover:text-white"
-              href="https://twitter.com/ismail96_12"
+              href="https://x.com/Md_Keiuom"
               target="_blank"
               rel="noreferrer"
             >
@@ -213,7 +195,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-white"
-              href="https://www.linkedin.com/in/ismaelmiah/"
+              href="https://www.linkedin.com/in/md-keiuom-miah/"
               target="_blank"
               rel="noreferrer"
             >
@@ -232,7 +214,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-white"
-              href="https://github.com/ismaelmiah"
+              href="https://github.com/Farhankaioum"
               target="_blank"
               rel="noreferrer"
             >
@@ -251,7 +233,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-white"
-              href="https://devismael.substack.com/"
+              href="https://substack.com/@mdkeiuom"
               target="_blank"
               rel="noreferrer"
             >
