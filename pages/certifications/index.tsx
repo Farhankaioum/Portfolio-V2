@@ -31,12 +31,12 @@ const Certifications = () => {
         <div className="p-2">
             <Image
               className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/ibm_cloud_computing_fundamental_certificate.png"
+              src="/certificates/ibm_cloud_computing_fundamental_certificate.jpg"
               width={150}
               height={200}
               alt="Cloud Computing Fundamentals By IBM"
               onClick={() =>
-                handleOpenModal("/certificates/ibm_cloud_computing_fundamental_certificate.png")
+                handleOpenModal("/certificates/ibm_cloud_computing_fundamental_certificate.jpg")
               }
             />
           </div>
