@@ -31,86 +31,37 @@ const Certifications = () => {
         <div className="p-2">
             <Image
               className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/asp.net-mvc-certificate.pdf"
+              src="/certificates/ibm_cloud_computing_fundamental_certificate.png"
+              width={150}
+              height={200}
+              alt="Cloud Computing Fundamentals By IBM"
+              onClick={() =>
+                handleOpenModal("/certificates/ibm_cloud_computing_fundamental_certificate.png")
+              }
+            />
+          </div>
+
+          <div className="w-1/2 p-2">
+            <Image
+              className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
+              src="/certificates/asp.net-mvc-certificate.jpg"
               width={150}
               height={200}
               alt="Asp .NET Full Stack MVC Certificate"
               onClick={() =>
-                handleOpenModal("/certificates/asp.net-mvc-certificate.pdf")
+                handleOpenModal("/certificates/asp.net-mvc-certificate.jpg")
               }
             />
           </div>
           <div className="w-1/2 p-2">
             <Image
               className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/basic-c-sharp-with-hackerrank.png"
+              src="/certificates/astha_it_internship.jpg"
               width={150}
               height={200}
-              alt="HackerRank C# Basic Certificate"
+              alt="Astha IT Dev Bootcamp Certificate"
               onClick={() =>
-                handleOpenModal("/certificates/basic-c-sharp-with-hackerrank.png")
-              }
-            />
-          </div>
-          <div className="w-1/2 p-2">
-            <Image
-              className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/astha_it_internship.pdf"
-              width={150}
-              height={200}
-              alt="Foundational C sharp Certificate(Microsoft)"
-              onClick={() =>
-                handleOpenModal("/certificates/astha_it_internship.pdf")
-              }
-            />
-          </div>
-          <div className="w-1/2 p-2">
-            <Image
-              className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/basic-javascript-with-hackerrank.png"
-              width={150}
-              height={200}
-              alt="HackerRank JavaScript Basic Certificate"
-              onClick={() =>
-                handleOpenModal(
-                  "/certificates/basic-javascript-with-hackerrank.png"
-                )
-              }
-            />
-          </div>
-          <div className="w-1/2 p-2">
-            <Image
-              className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/basic-sql-with-hackerrank.png"
-              width={150}
-              height={200}
-              alt="HackerRank SQL Basic Certificate"
-              onClick={() =>
-                handleOpenModal("/certificates/basic-sql-with-hackerrank.png")
-              }
-            />
-          </div>
-          <div className="w-1/2 p-2">
-            <Image
-              className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/javascript-algorithms-and-data-structures.png"
-              width={150}
-              height={200}
-              alt="FreeCodeCampg JavaScript Algorithms and Data Structure"
-              onClick={() =>
-                handleOpenModal("/certificates/javascript-algorithms-and-data-structures.png")
-              }
-            />
-          </div>
-          <div className="w-1/2 p-2">
-            <Image
-              className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/udemy-aws-course-completion-certificate.jpg"
-              width={150}
-              height={200}
-              alt="Udemy AWS Course Completion Certificate"
-              onClick={() =>
-                handleOpenModal("/certificates/udemy-aws-course-completion-certificate.jpg")
+                handleOpenModal("/certificates/astha_it_internship.jpg")
               }
             />
           </div>
