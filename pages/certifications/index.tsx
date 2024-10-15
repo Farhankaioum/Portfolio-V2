@@ -31,12 +31,12 @@ const Certifications = () => {
         <div className="p-2">
             <Image
               className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/asp.net-mvc-certificate.jpg"
+              src="/certificates/asp.net-mvc-certificate.pdf"
               width={150}
               height={200}
               alt="Asp .NET Full Stack MVC Certificate"
               onClick={() =>
-                handleOpenModal("/certificates/asp.net-mvc-certificate.jpg")
+                handleOpenModal("/certificates/asp.net-mvc-certificate.pdf")
               }
             />
           </div>
@@ -55,12 +55,12 @@ const Certifications = () => {
           <div className="w-1/2 p-2">
             <Image
               className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
-              src="/certificates/foundational-c-sharp-with-microsoft.png"
+              src="/certificates/astha_it_internship.pdf"
               width={150}
               height={200}
               alt="Foundational C sharp Certificate(Microsoft)"
               onClick={() =>
-                handleOpenModal("/certificates/foundational-c-sharp-with-microsoft.png")
+                handleOpenModal("/certificates/astha_it_internship.pdf")
               }
             />
           </div>
