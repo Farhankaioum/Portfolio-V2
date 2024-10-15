@@ -20,14 +20,14 @@ const Education = () => {
                   <h3>
                     <a
                       className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                      href="https://www.beds.ac.uk/"
+                      href="https://www.cqu.edu.au/"
                       target="_blank"
                       rel="noreferrer"
-                      aria-label="Apex4u"
+                      aria-label="Cqu"
                     >
                       <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                       <span>
-                        University of Bedfordshire
+                        University of Central Queensland
                         <span className="inline-block">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -47,7 +47,7 @@ const Education = () => {
                     </a>
                   </h3>
                   <p className="mt-2 text-sm leading-normal text-justify">
-                    Studying Master&apos;s in computer networking
+                    Studying Master&apos;s in Information Technology (Major in Software Design & Development)
                   </p>
                 </div>
                 <img
@@ -59,7 +59,7 @@ const Education = () => {
                   data-nimg="1"
                   className="rounded transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
                   style={{ color: "transparent" }}
-                  src={"/images/educations/bedfordshire.png"}
+                  src={"/images/educations/cq.jpeg"}
                 />
               </div>
             </li>
@@ -100,13 +100,13 @@ const Education = () => {
                     I earned a{" "}
                     <b>Bachelor&apos;s degree in Software Engineering</b> from
                     Daffodil International University in 2021, graduating with a
-                    CGPA of <b>3.82</b>. During my studies, I participated in
+                    CGPA of <b>3.65</b>. During my studies, I participated in
                     competitive programming contests and mentored 1st-year
-                    students. I developed strong problem-solving skills in C++,
-                    Java, and Python, and gained proficiency in{" "}
+                    students. I developed strong problem-solving skills in C,
+                    Java, C#, and Python, and gained proficiency in{" "}
                     <b>
                       object-oriented programming (OOP), data structures,
-                      algorithms, SDLC, and web development
+                      algorithms, SDLC, web development and app development
                     </b>
                     . I also acquired knowledge in{" "}
                     <b>

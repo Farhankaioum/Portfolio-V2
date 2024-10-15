@@ -358,7 +358,7 @@ const Experience = () => {
             <a
               className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group"
               aria-label="View Full Resume"
-              href="/resume/Resume_Of_Ismael_Miah.pdf"
+              href="/resume/Resume_Of_Keiuom_Miah.pdf"
               target="_blank"
             >
               <span>
