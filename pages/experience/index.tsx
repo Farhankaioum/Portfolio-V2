@@ -20,7 +20,7 @@ const Experience = () => {
                   className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
                   aria-label="march 2024 to august 2024"
                 >
-                  March 2024 — August 2024
+                  March 2023 — July 2024
                 </header>
                 <div className="z-10 sm:col-span-6">
                   <h3 className="font-medium leading-snug text-slate-200">
