@@ -102,12 +102,17 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Asp .NET MVC
+                Asp .NET
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Asp .NET Web API
+                .NET Core
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Asp.Net Web API
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -118,6 +123,11 @@ const About = () => {
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 TypeScript
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                AngularJS
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -177,7 +187,7 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Nginx (Reverse-Proxy)
+                Nginx
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -187,7 +197,7 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Multi-Threading
+                Worker Service
               </div>
             </li>
           </ul>
