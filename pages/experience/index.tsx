@@ -101,7 +101,7 @@ const Experience = () => {
                   className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
                   aria-label="2018 to Present"
                 >
-                  February 2021 — February 2024
+                  May 2021 — September 2021
                 </header>
                 <div className="z-10 sm:col-span-6">
                   <h3 className="font-medium leading-snug text-slate-200">
@@ -137,25 +137,14 @@ const Experience = () => {
                     </div>
                   </h3>
                   <div className="mt-2 text-sm leading-normal text-justify">
-                    I gained extensive experience working at StrataSpot&apos;s live
-                    platform, where my responsibilities included managing client
-                    tasks, strategizing project needs, providing guidance to
-                    team members, and actively contributing to coding tasks for
-                    feature deployments. I implemented efficient development and
+                    I gained extensive experience working at Transcom Digital&apos;s mobile
+                    app, where my responsibilities included managing client
+                    tasks, strategizing project needs, and actively contributing to coding tasks for
+                    feature design & developments. I implemented efficient development and
                     integration processes to ensure seamless collaboration and
                     quality assurance, including thorough testing protocols to
                     identify and address issues early on.
                   </div>
-                  <p className="mt-4 text-sm leading-normal text-justify">
-                    Additionally, during my tenure at Apex4u and Transcom
-                    Digital, I demonstrated proficiency in .NET 6, .NET Core
-                    3.1, and MongoDB respectively. I successfully executed
-                    projects aimed at streamlining catalog management, order
-                    management, payment processes, and implementing promotional
-                    strategies. Additionally, enhanced features of Hawai&apos;s
-                    Global Aloha project&apos;s social media platform utilizing
-                    Angular, .NET Core 3.1, and PostgreSQL.
-                  </p>
 
                   <p className="mt-4 text-sm leading-normal text-justify">
                     My approach emphasized agility, as I participated in
@@ -171,41 +160,11 @@ const Experience = () => {
                     <li className="mr-4">
                       <a
                         className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
-                        href="https://apex4u.com/"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        <span>Apex</span>
-                      </a>
-                    </li>
-                    <li className="mr-4">
-                      <a
-                        className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
-                        href="https://www.strataspot.com.au/"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        <span>StrataSpot</span>
-                      </a>
-                    </li>
-                    <li className="mr-4">
-                      <a
-                        className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
                         href="https://transcomdigital.com/"
                         target="_blank"
                         rel="noreferrer"
                       >
                         <span>Transcom Digital</span>
-                      </a>
-                    </li>
-                    <li className="mr-4">
-                      <a
-                        className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
-                        href="https://www.punahou.edu/luke-center-for-public-service/programs-and-initiatives/global-aloha"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        <span>Global-Aloha</span>
                       </a>
                     </li>
                   </ul>
@@ -215,52 +174,22 @@ const Experience = () => {
                   >
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        C#
+                        Dart
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        Asp .Net Framework
+                        Flutter
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        Asp .Net Core
+                        SQLITE
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        .Net Web API
-                      </div>
-                    </li>
-                    <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        MSSQL
-                      </div>
-                    </li>
-                    <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        PostgreSQL
-                      </div>
-                    </li>
-                    <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        MongoDB
-                      </div>
-                    </li>
-                    <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        JavaScript
-                      </div>
-                    </li>
-                    <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        TypeScript
-                      </div>
-                    </li>
-                    <li className="mr-1.5 mt-2">
-                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        React
+                        MapBox
                       </div>
                     </li>
                   </ul>
