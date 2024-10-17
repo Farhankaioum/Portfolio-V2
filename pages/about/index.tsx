@@ -85,7 +85,7 @@ const About = () => {
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
-          I’m always open to <span className="font-medium">part-time</span> opportunities where I can contribute,
+          I’m always open to <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">part-time</span> opportunities where I can contribute,
           grow, and continue learning. If you’d like to collaborate, let’s
           connect!{" "}
         </p>
