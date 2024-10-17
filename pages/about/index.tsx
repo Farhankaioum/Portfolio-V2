@@ -12,7 +12,9 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4 text-justify">
-          My passion for coding began when I ambitiously attempted to build a
+          My interest for coding began when I was in class 11 and a few of my classmates 
+          start learning C programming and solving problem using C. After that, I
+          ambitiously attempted to build a
           version of Facebook using raw PHP—though I didn’t finish it, that
           experience sparked my love for software development. I went on to earn
           a degree in{" "}
@@ -83,7 +85,7 @@ const About = () => {
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
-          I’m always open to part-time opportunities where I can contribute,
+          I’m always open to <span className="font-medium">part-time</span> opportunities where I can contribute,
           grow, and continue learning. If you’d like to collaborate, let’s
           connect!{" "}
         </p>
