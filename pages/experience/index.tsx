@@ -111,7 +111,7 @@ const Experience = () => {
                         href="https://www.hogarth.com/"
                         target="_blank"
                         rel="noreferrer"
-                        aria-label="Software Engineer at Astha IT"
+                        aria-label="Software Engineer at Streams Tech Ltd"
                       >
                         <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                         <span>
@@ -137,7 +137,7 @@ const Experience = () => {
                     </div>
                   </h3>
                   <div className="mt-2 text-sm leading-normal text-justify">
-                  In my role as a Software Engineer at Hogarth Dhaka, I was responsible for understanding requirements,
+                  In my role as a Associate Software Engineer at Streams Tech Ltd, I was responsible for understanding requirements,
                    estimating tasks, and implementing enhancements and fixes.
                     I also focused on maintaining codebase consistency, optimizing queries for large production data,
                      and increasing research and development on complex topics, libraries, and APIs.
@@ -153,7 +153,7 @@ const Experience = () => {
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        Asp .Net
+                        Dot Net Core
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
@@ -163,12 +163,22 @@ const Experience = () => {
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        MS SQL
+                        PostgreSQL
                       </div>
                     </li>
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                        Angular
+                        Angular-16
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        Auth0
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        AWS
                       </div>
                     </li>
                   </ul>
