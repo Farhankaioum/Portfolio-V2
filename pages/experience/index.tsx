@@ -117,7 +117,7 @@ const Experience = () => {
                         <span>
                           Associate Software Engineer {" . "}
                           <span className="inline-block">
-                            Hogarth{" "}
+                            Streams Tech Ltd{" "}
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               viewBox="0 0 20 20"
