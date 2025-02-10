@@ -14,9 +14,9 @@ export default function Home() {
           <meta
             property="og:description"
             content="Md Keiuom is a software engineer who builds accessible,
-  inclusive products and digital experiences for the web."
+  inclusive products and digital experiences for the web and mobile app."
           />
-          <meta property="og:image" content="/images/Thumbnail.jpeg" />
+          <meta property="og:image" content="/images/Thumbnail.jpg" />
           <meta property="og:image:type" content="image/jpeg" />
           <meta property="og:image:alt" content="Summary Image" />
           <meta property="og:title" content="Md Keiuom" />
@@ -25,33 +25,33 @@ export default function Home() {
           <meta name="twitter:card" content="summary_large_image" />
           <meta property="og:site_name" content="Keiuom's Portfolio" />
           <meta name="twitter:image:alt" content="Full Stack Engineer" />
-          <link rel="shortcut icon" href="/favicon/apple-touch-icon.png" />
+          <link rel="shortcut icon" href="/favicon/apple-touch-icon.jpg" />
           <link
             rel="favicon-16x16"
             type="image/png"
             sizes="16x16"
-            href="/favicon/favicon-16x16.png"
+            href="/favicon/favicon-16x16.jpg"
           />
           <link
             rel="favicon-32x32"
             type="image/png"
             sizes="32x32"
-            href="/favicon/favicon-32x32.png"
+            href="/favicon/favicon-32x32.jpg"
           />
           <link
             rel="apple-touch-icon"
             sizes="180x180"
-            href="/favicon/apple-touch-icon.png"
+            href="/favicon/apple-touch-icon.jpg"
           />
           <link
             rel="android-chrome-192x192"
             sizes="192x192"
-            href="/favicon/android-chrome-192x192.png"
+            href="/favicon/android-chrome-192x192.jpg"
           />
           <link
             rel="android-chrome-512x512"
             sizes="512x512"
-            href="/favicon/android-chrome-512x512.png"
+            href="/favicon/android-chrome-512x512.jpg"
           />
         </Head>
       </div>
@@ -61,7 +61,7 @@ export default function Home() {
       <Certifications />
       <Education />
       <div className="mt-20">
-        A copied design and coded in Visual Studio Code by myself truly. Built
+        A design and coded in Visual Studio Code by myself truly. Built
         with NextJs and Tailwind CSS, deployed with Netlify.
       </div>
     </>

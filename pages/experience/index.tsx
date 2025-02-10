@@ -210,7 +210,7 @@ const Experience = () => {
                         <span>
                           Associate Software Engineer {" . "}
                           <span className="inline-block">
-                            Streams Tech Ltd{" "}
+                            Brain Station 23 Ltd{" "}
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               viewBox="0 0 20 20"
@@ -230,8 +230,8 @@ const Experience = () => {
                     </div>
                   </h3>
                   <div className="mt-2 text-sm leading-normal text-justify">
-                  In my role as a Associate Software Engineer at Streams Tech Ltd, I was responsible for understanding requirements,
-                   estimating tasks, and implementing enhancements and fixes. I was played my role as a deputy team lead in my team.
+                  In my role as a Associate Software Engineer at Brain Station 23 Ltd, I was responsible for understanding requirements,
+                   estimating tasks, and implementing enhancements and fixes.
                     I also focused on maintaining codebase consistency, optimizing queries for large production data, deployment in multiple servers,
                      and increasing research and development on complex topics, libraries, and APIs.
                   </div>

@@ -59,7 +59,7 @@ const About = () => {
           >
             Hogarth
           </a> in early 2023, and
-          after that, I moved to Melbourne, Australia, for my Master degree.
+          after that, I moved to Australia, for my Master degree.
         </p>
         <p className="mb-4">
           I love sharing web development insights with the Dev Community on{" "}
@@ -100,6 +100,16 @@ const About = () => {
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 C#
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                JAVA
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Python
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -180,6 +190,11 @@ const About = () => {
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 Docker
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Kubernetes
               </div>
             </li>
             <li className="mr-1.5 mt-2">
