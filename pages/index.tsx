@@ -23,7 +23,7 @@ export default function Home() {
           <meta property="og:type" content="website" />
           <meta property="og:locale" content="en_IE" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta property="og:site_name" content="Keiuom's Portfolio" />
+          <meta property="og:site_name" content="Keiuom&apos;s Portfolio" />
           <meta name="twitter:image:alt" content="Full Stack Engineer" />
           <link rel="shortcut icon" href="/favicon/apple-touch-icon.jpg" />
           <link

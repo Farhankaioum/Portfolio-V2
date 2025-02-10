@@ -33,7 +33,7 @@ const Header = () => {
           </p>
 
           <div className="mt-3 max-w-xs flex">
-            <a
+            {/* <a
               className="flex items-center rounded uppercase bg-teal-400/10 px-4 py-2 text-xs text-teal-300 hover:text-teal-100 mr-2 font-medium"
               href="https://devkeiuom.blogspot.com/"
               target="_blank"
@@ -53,7 +53,30 @@ const Header = () => {
                 <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path>
               </svg>
               My SE Blog
+            </a> */}
+
+            <a
+              className="flex items-center rounded uppercase bg-teal-400/10 px-4 py-2 text-xs text-teal-300 hover:text-teal-100 mr-2 font-medium"
+              href="https://www.linkedin.com/in/md-keiuom-miah/"
+              target="_blank"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                className="lucide lucide-flame mr-2 h-4 w-4"
+              >
+                <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path>
+              </svg>
+              Let's Connect
             </a>
+
             <a
               className="flex items-center rounded uppercase bg-teal-300 px-4 py-2 text-xs text-teal-900 hover:text-teal-100 hover:bg-teal-400/10 font-medium"
               aria-label="View Full Resume"
@@ -70,7 +93,7 @@ const Header = () => {
                 strokeWidth="2"
                 stroke-linecap="round"
                 stroke-linejoin="round"
-                className="lucide lucide-download mr-2 h-4 w-4"
+                className="lucide lucide-flame mr-2 h-4 w-4"
               >
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                 <polyline points="7 10 12 15 17 10"></polyline>
@@ -78,6 +101,8 @@ const Header = () => {
               </svg>{" "}
               Resume
             </a>
+            
+            
           </div>
           <nav className="nav hidden lg:block" aria-label="In-page jump links">
             <ul className="mt-12 w-max">

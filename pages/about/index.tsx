@@ -80,13 +80,13 @@ const About = () => {
           >
             Substack
           </a>{" "}
-          platform. Outside of work, I’m an athlete, I'm playing football and cricket when I got time.{" "}
+          platform. Outside of work, I&apos;m an athlete, I&apos;m playing football and cricket when I got time.{" "}
           
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
-          I’m always open to <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">part-time</span> opportunities where I can contribute,
-          grow, and continue learning. If you’d like to collaborate, let’s
+          I&apos;m always open to <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">part-time</span> opportunities where I can contribute,
+          grow, and continue learning. If you&apos;d like to collaborate, let&apos;s
           connect!{" "}
         </p>
       </div>
