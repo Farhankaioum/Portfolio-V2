@@ -57,7 +57,7 @@ const About = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Hogarth
+            Wunderman Thompson Studio Dhaka
           </a> in early 2023, and
           after that, I moved to Australia, for my Master degree.
         </p>
@@ -85,7 +85,7 @@ const About = () => {
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
-          I&apos;m always open to <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">part-time</span> opportunities where I can contribute,
+          I&apos;m always open to <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">new</span> opportunities where I can contribute,
           grow, and continue learning. If you&apos;d like to collaborate, let&apos;s
           connect!{" "}
         </p>
@@ -124,7 +124,17 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Asp.Net Web API
+                Web API
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Rest API
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                GraphQL
               </div>
             </li>
             <li className="mr-1.5 mt-2">
@@ -175,16 +185,6 @@ const About = () => {
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 Git
-              </div>
-            </li>
-            <li className="mr-1.5 mt-2">
-              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                RESTful APIs
-              </div>
-            </li>
-            <li className="mr-1.5 mt-2">
-              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                GraphQL
               </div>
             </li>
             <li className="mr-1.5 mt-2">

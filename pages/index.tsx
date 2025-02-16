@@ -61,8 +61,7 @@ export default function Home() {
       <Certifications />
       <Education />
       <div className="mt-20">
-        A design and coded in Visual Studio Code by myself truly. Built
-        with NextJs and Tailwind CSS, deployed with Netlify.
+          &copy; 2025 Md Keiuom Miah. Made with ♥ in Sydney, Australia.
       </div>
     </>
   );

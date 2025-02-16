@@ -36,7 +36,7 @@ const Experience = () => {
                         <span>
                           Software Engineer {" . "}
                           <span className="inline-block">
-                            Hogarth{" "}
+                            Wunderman Thompson (Now - Hogarth){" "}
                             <svg
                               xmlns="http://www.w3.org/2000/svg"
                               viewBox="0 0 20 20"
@@ -56,7 +56,7 @@ const Experience = () => {
                     </div>
                   </h3>
                   <div className="mt-2 text-sm leading-normal text-justify">
-                  In my role as a Software Engineer at Hogarth Dhaka, I was responsible for understanding requirements,
+                  In my role as a Software Engineer at Wunderman Thompson (now Hogarth Dhaka), I was responsible for understanding requirements,
                    estimating tasks, and implementing enhancements and fixes.
                     I also focused on maintaining codebase consistency, optimizing queries for large production data,
                      and increasing research and development on complex topics, libraries, and APIs.
@@ -88,6 +88,11 @@ const Experience = () => {
                     <li className="mr-1.5 mt-2">
                       <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                         Angular
+                      </div>
+                    </li>
+                    <li className="mr-1.5 mt-2">
+                      <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                        AWS
                       </div>
                     </li>
                   </ul>
