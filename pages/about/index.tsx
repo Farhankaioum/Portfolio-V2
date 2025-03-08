@@ -50,7 +50,17 @@ const About = () => {
             DevSkill
           </a>
           , which was a pivotal experience that enhanced my skills during my
-          first year at ASTHA-IT. Lastly, I joined {" "}
+          first year at ASTHA-IT. After that I joined {" "}
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://streamstech.com//"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Streams Tech Ltd
+          </a> in early 2022 and worked with their a startup client in USA.
+          
+           Lastly, I joined {" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://www.hogarth.com/"
@@ -60,6 +70,15 @@ const About = () => {
             Wunderman Thompson Studio Dhaka
           </a> in early 2023, and
           after that, I moved to Australia, for my Master degree.
+          In December 2024, I got a contructual opportunity to work with {" "}
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="https://ausisaccommodationservices.hotels-melbourne.net/en/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Ausis Accommodation Services
+          </a>
         </p>
         <p className="mb-4">
           I love sharing web development insights with the Dev Community on{" "}
@@ -71,7 +90,7 @@ const About = () => {
           >
             LinkedIn
           </a>{" "}
-          and my{" "}
+          {/* and my{" "}
           <a
             className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
             href="https://substack.com/@mdkeiuom"
@@ -79,13 +98,13 @@ const About = () => {
             rel="noreferrer"
           >
             Substack
-          </a>{" "}
+          </a>{" "} */}
           platform. Outside of work, I&apos;m an athlete, I&apos;m playing football and cricket when I got time.{" "}
           
         </p>{" "}
         <p className="mb-4 text-justify">
           {" "}
-          I&apos;m always open to <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">new</span> opportunities where I can contribute,
+          I&apos;m open to <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">new</span> opportunities where I can contribute,
           grow, and continue learning. If you&apos;d like to collaborate, let&apos;s
           connect!{" "}
         </p>
@@ -209,12 +228,17 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Design Patterns
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                 Design Principles
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                Worker Service
+                Background Services
               </div>
             </li>
           </ul>
